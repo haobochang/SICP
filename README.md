@@ -1,2 +1,2 @@
 # SICP
-SICP相关联系
+SICP相关练习
